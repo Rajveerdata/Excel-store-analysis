@@ -1,4 +1,4 @@
-# Excell-store-analysis
+# Excel-store-analysis
   Problems question
   Compare the sales and orders using single chart?
   
